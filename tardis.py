@@ -29,14 +29,14 @@ ambientSound = pygame.mixer.Channel(2)
 clock = pygame.time.Clock()
 
 #Setup sounds
-tardis_takeoff1 = pygame.mixer.Sound('/home/pi/mu_code/sounds/tardis_take_off1.wav')
-tardis_takeoff2 = pygame.mixer.Sound('/home/pi/mu_code/sounds/tardis_take_off2.wav')
-tardis_landing = pygame.mixer.Sound('/home/pi/mu_code/sounds/tadis_landing_short.wav')
-tardis_cloister_bell = pygame.mixer.Sound('/home/pi/mu_code/sounds/tardis_cloister_bell.wav')
-tardis_denied = pygame.mixer.Sound('/home/pi/mu_code/sounds/tardis_denied.wav')
-tardis_malfunctioning = pygame.mixer.Sound('/home/pi/mu_code/sounds/tardis_malfunctioning.wav')
-silence = pygame.mixer.Sound('/home/pi/mu_code/sounds/silence.wav')
-dalek_control_room = pygame.mixer.Sound('/home/pi/mu_code/sounds/dalek_control_room.wav')
+tardis_takeoff1 = pygame.mixer.Sound('/home/pi/sounds/tardis_take_off1.wav')
+tardis_takeoff2 = pygame.mixer.Sound('/home/pi/sounds/tardis_take_off2.wav')
+tardis_landing = pygame.mixer.Sound('/home/pi/sounds/tadis_landing_short.wav')
+tardis_cloister_bell = pygame.mixer.Sound('/home/pi/sounds/tardis_cloister_bell.wav')
+tardis_denied = pygame.mixer.Sound('/home/pi/sounds/tardis_denied.wav')
+tardis_malfunctioning = pygame.mixer.Sound('/home/pi/sounds/tardis_malfunctioning.wav')
+silence = pygame.mixer.Sound('/home/pi/sounds/silence.wav')
+dalek_control_room = pygame.mixer.Sound('/home/pi/sounds/dalek_control_room.wav')
 
 #Sound lists
 takeoffList = [tardis_takeoff2, tardis_takeoff1, tardis_malfunctioning]
