@@ -5,8 +5,8 @@
 #   every 5 to 15 minutes. This is far from perfect, so please copy and do  #
 #   whatever the Hell you want with this code and do cool things :)         #
 #                                                                           #
-#   This code was tested on a Raspberry Pi 3 B+ with Raspberry Pi OS. The   #
-#   sounds are included in the repo, dont forget to change the paths.       #
+#   This code was tested on a Raspberry Pi 3 B+ with Raspbian. The sounds   #
+#   are included in the repo, dont forget to change the paths.              #
 #                                                                           #
 #   Mélodie Vibert                                                          #
 #   November 20th 2023                                                      #
